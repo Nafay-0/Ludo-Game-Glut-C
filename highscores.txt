@@ -1,0 +1,10 @@
+nafay  1020
+alpha  1000
+bravo   768
+charlie   634
+beta	556
+gamma	467
+lol	398
+steve	298
+test1	192
+test0	108
